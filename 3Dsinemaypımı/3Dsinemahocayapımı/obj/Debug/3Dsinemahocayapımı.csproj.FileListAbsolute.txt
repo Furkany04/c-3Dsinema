@@ -1,0 +1,11 @@
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\bin\Debug\3Dsinemahocayapımı.exe.config
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\bin\Debug\3Dsinemahocayapımı.exe
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\bin\Debug\3Dsinemahocayapımı.pdb
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\obj\Debug\3Dsinemahocayapımı.csproj.AssemblyReference.cache
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\obj\Debug\3Dsinemahocayapımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\obj\Debug\_3Dsinemahocayapımı.Form1.resources
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\obj\Debug\_3Dsinemahocayapımı.Properties.Resources.resources
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\obj\Debug\3Dsinemahocayapımı.csproj.GenerateResource.cache
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\obj\Debug\3Dsinemahocayapımı.csproj.CoreCompileInputs.cache
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\obj\Debug\3Dsinemahocayapımı.exe
+C:\Users\furkan.yildiz\source\repos\3Dsinemahocayapımı\3Dsinemahocayapımı\obj\Debug\3Dsinemahocayapımı.pdb
